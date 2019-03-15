@@ -1,6 +1,3 @@
-# php-password-cli
-Generate a password or passphrase from the terminal
-
 # PHP Password Generator
 Generate a random password or passphrase from the terminal.
 
